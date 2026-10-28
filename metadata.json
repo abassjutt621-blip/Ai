@@ -1,0 +1,6 @@
+{
+  "name": "PixelStudio AI - Product Photo Cleanup & BG Remover",
+  "description": "Remove backgrounds and clean up product photos instantly with natural language typing instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
